@@ -1,0 +1,28 @@
+=================================
+ Linux System Report
+=================================
+
+Date:
+Sat Jun 13 05:38:11 PM UTC 2026
+
+Current User:
+suhai
+
+Hostname:
+UnixLap
+
+Uptime:
+up 1 hour, 57 minutes
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.4Gi       254Mi        60Mi       2.3Gi       2.3Gi
+Swap:             0B          0B          0B
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  1.7M  381M   1% /run
+/dev/sda2        25G   11G   14G  44% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           382M  132K  382M   1% /run/user/1000
